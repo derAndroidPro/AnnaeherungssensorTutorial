@@ -21,4 +21,4 @@ Wichtige Dateien:
 
 <b>APP ICON</b> (Erstellt mit dem <a href="http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html" target="_blank" >Material Design App Icon Creator</a>)
 
-<img src="/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" />
+<img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" height="100px" />
