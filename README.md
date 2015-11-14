@@ -1,7 +1,7 @@
 # Annäherungssensor Tutorial
 So greift ihr mit eurer App auf den Annäherungssensor eines Android-Smartphones zu, um zu erkennen, wie weit ein Objekt vom Smartphone entfernt ist.
 
-- <a href="" target="_blank" >Tutorial auf YouTube</a>
+- <a href="https://youtu.be/XtZgrEJZT-0" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
 ---
